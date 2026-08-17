@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/p5js-logo.png" alt="p5.js logo" width="200">
+  <img src="assets/p5.png" alt="p5.js logo" width="200">
 </p>
 
 <h1 align="center">Creative Coding with p5.js</h1>
